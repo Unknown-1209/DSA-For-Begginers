@@ -1,6 +1,7 @@
 # DSA_For_Begginers
 
 ### Data Structures and Algorithms for Beginners
+The main goal for this GitHub repository is to be able to answer leetcode questions and be better prepared for technical interviews when applying for jobs.
 
 ### 1. Introduction to DSA
    * What are Data Structures and Algorithms?
