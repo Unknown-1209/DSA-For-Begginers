@@ -1,4 +1,3 @@
-```python
 | Data Structure | Operation          | Average Time Complexity | Worst Time Complexity | Space Complexity |
 |-----------------|--------------------|-------------------------|-----------------------|------------------|
 | **Arrays**      | Access             | `O(1)`                  | `O(1)`                | `O(1)`           |
