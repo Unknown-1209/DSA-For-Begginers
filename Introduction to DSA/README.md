@@ -48,11 +48,6 @@ Welcome to the "Introduction to Data Structures and Algorithms" chapter! This se
 ### 2. Practice, Practice, Practice:
    - The key to mastering DSA is consistent practice. Solve problems regularly on online platforms to reinforce your learning.
 
-### 3. Connect with the Community:
-   - Join forums and communities such as Reddit (r/learnprogramming) and Stack Overflow to seek help and share your knowledge.
-
-## Challenge:
-Write a pseudo-code for a function that checks if a given array is sorted in non-decreasing order.
 
 ## Remember:
 Learning DSA is a gradual process, and consistency is key. Start with the basics, practice regularly, and gradually tackle more complex problems. This chapter sets the stage for a rewarding journey into the world of DSA!
